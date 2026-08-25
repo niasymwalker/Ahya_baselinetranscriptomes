@@ -1,0 +1,13 @@
+{
+	"n_targets": 28188,
+	"n_bootstraps": 0,
+	"n_processed": 29479770,
+	"n_pseudoaligned": 9909575,
+	"n_unique": 9495068,
+	"p_pseudoaligned": 33.6,
+	"p_unique": 32.2,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Mar 14 11:21:01 2022",
+	"call": "kallisto quant -i ../Amil.idx -o 744E-pre ../sample_trimming_L2/trimmed_7-44E-pre.R1.fastq.gz ../sample_trimming_L2/trimmed_7-44E-pre.R2.fastq.gz"
+}
